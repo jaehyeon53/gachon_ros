@@ -1,4 +1,0 @@
-total 0
--rw-r--r-- 1 조재현 197121 0 Oct 18 01:27 file_list.txt
-total 1.0K
--rw-r--r-- 1 조재현 197121 67 Oct 18 01:27 file_list.txt
