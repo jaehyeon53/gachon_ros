@@ -1,7 +1,0 @@
-universityx
-class
-home
-new
-lecture
-exam
-lab
